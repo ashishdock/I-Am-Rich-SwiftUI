@@ -11,6 +11,11 @@ struct ContentView: View {
     var body: some View {
         Text("Hello, earth!")
             .padding()
+        
+    }
+    var body1: some View {
+        Text("Hello, earth2!")
+            .padding()
     }
 }
 
